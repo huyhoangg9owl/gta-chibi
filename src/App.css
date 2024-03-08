@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Sequel75';
+	src: local('Sequel100Black-75'), url('./fonts/Sequel/Sequel100Black-75.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Sequel65';
+	src: local('Sequel100Black-65'), url('./fonts/Sequel/Sequel100Black-65.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Sequel55';
+	src: local('Sequel100Black-55'), url('./fonts/Sequel/Sequel100Black-55.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SykeMonoMedium';
+	src: local('SykeMonoMedium'), url('./fonts/Syke Mono/Syke Mono/syke_mono_medium.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SykeMonoRegular';
+	src: local('SykeMonoRegular'), url('./fonts/Syke Mono/Syke Mono/syke_mono_regular.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SykeMonoThin';
+	src: local('SykeMonoThin'), url('./fonts/Syke Mono/Syke Mono/syke_mono_thin.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'DecimaBold';
+	src: local('DecimaBold'), url('./fonts/Decima/Decima+ Bold.ttf') format('truetype');
+}
